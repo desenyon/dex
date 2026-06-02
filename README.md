@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/desenyon/dex/actions"><img alt="CI" src="https://img.shields.io/github/actions/workflow/status/desenyon/dex/release.yml?branch=main&style=for-the-badge&label=qa"></a>
+  <a href="https://github.com/desenyon/dex/actions/workflows/qa.yml"><img alt="QA" src="https://img.shields.io/github/actions/workflow/status/desenyon/dex/qa.yml?branch=main&style=for-the-badge&label=qa"></a>
   <a href="https://github.com/desenyon/dex/releases"><img alt="Release" src="https://img.shields.io/github/v/release/desenyon/dex?style=for-the-badge"></a>
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-25F2A6?style=for-the-badge"></a>
   <img alt="Go" src="https://img.shields.io/badge/go-1.26-00ADD8?style=for-the-badge">
